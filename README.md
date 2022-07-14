@@ -26,6 +26,7 @@ module.exports = {
 ```
 
 `storagePrefix`: addPrefix (在普通 key 上添加前缀)
+
 `localStorageWhiteList`: localStorage.clean() will skip array (使用 localStorage.clean()时会跳过里面的值)
 
 then you can use it as native localStorage
