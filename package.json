@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/BIMiracle/KLocalStorage.git"
   },
+	"keywords": [
+    "KLocalStorage",
+    "klocalstorage",
+    "localStorage",
+    "localstorage",
+    "storage"
+  ],
   "author": "BIMiracle",
   "license": "Apache-2.0",
   "bugs": {
