@@ -2,13 +2,13 @@
 
 enhanced localStorage(加强版 localStorage)
 
-# INSTALL(安装)
+# INSTALL
 
 ```bash
 npm install KLocalStorage
 ```
 
-# USAGE(使用)
+# USAGE
 
 For Vue Project in main.js add
 

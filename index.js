@@ -1,14 +1,7 @@
 const setting = require('./storage.config')
 
-if (setting) {
-	if (!setting.storagePrefix) {
-		throw new Error(`KLocalStorage: storagePrefix not found`)
-	}
-	if (!setting.localStorageWhiteList) {
-		throw new Error(`KLocalStorage: localStorageWhiteList not found`)
-	}
-}else{
-	throw new Error(`storage.config.js setting not found`)
+if (!setting.storagePrefix) {
+	throw new Error(`KLocalStorage: please create a storage.config.js see https://github.com/BIMiracle/KLocalStorage#usage`)
 }
 
 let _localStorageSave
