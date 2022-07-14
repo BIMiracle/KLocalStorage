@@ -1,0 +1,19 @@
+{
+  "name": "klocalstorage",
+  "version": "1.0.0",
+  "description": "enhanced localStorage(加强版localStorage)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIMiracle/KLocalStorage.git"
+  },
+  "author": "BIMiracle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BIMiracle/KLocalStorage/issues"
+  },
+  "homepage": "https://github.com/BIMiracle/KLocalStorage#readme"
+}
