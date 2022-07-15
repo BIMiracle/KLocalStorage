@@ -1,11 +1,15 @@
-# KLocalStorage
+# k-localstorage
 
 enhanced localStorage(加强版 localStorage)
 
 # INSTALL
 
 ```bash
-npm install KLocalStorage
+npm i k-localstorage
+```
+or
+```bash
+pnpm i k-localstorage
 ```
 
 # USAGE
@@ -13,7 +17,7 @@ npm install KLocalStorage
 For Vue Project in main.js add
 
 ```js
-import 'KLocalStorage'
+import 'k-localstorage'
 ```
 
 create a `storage.config.js`

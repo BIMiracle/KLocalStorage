@@ -1,5 +1,5 @@
 {
-  "name": "klocalstorage",
+  "name": "k-localstorage",
   "version": "1.0.1",
   "description": "enhanced localStorage(加强版localStorage)",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BIMiracle/KLocalStorage.git"
+    "url": "git+https://github.com/BIMiracle/k-localstorage.git"
   },
 	"keywords": [
-    "KLocalStorage",
-    "klocalstorage",
+    "k-localstorage",
+    "k-localStorage",
     "localStorage",
     "localstorage",
     "storage"
@@ -20,7 +20,7 @@
   "author": "BIMiracle",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/BIMiracle/KLocalStorage/issues"
+    "url": "https://github.com/BIMiracle/k-localstorage/issues"
   },
-  "homepage": "https://github.com/BIMiracle/KLocalStorage#readme"
+  "homepage": "https://github.com/BIMiracle/k-localstorage#readme"
 }

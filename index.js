@@ -1,7 +1,7 @@
 const setting = require('./storage.config')
 
 if (!setting.storagePrefix) {
-	throw new Error(`KLocalStorage: please create a storage.config.js see https://github.com/BIMiracle/KLocalStorage#usage`)
+	throw new Error(`k-localstorage: please create a storage.config.js see https://github.com/BIMiracle/k-localstorage#usage`)
 }
 
 let _localStorageSave
